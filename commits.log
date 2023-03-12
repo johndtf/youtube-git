@@ -1,0 +1,98 @@
+commit 590f37f9026bcf71ac237017534a51b871246408
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Fri Mar 10 17:03:16 2023 -0500
+
+    Agregando dos parrafos
+
+commit aef1684c66be01022811ac22a565c3f732e5a054
+Merge: e238653 d487afa
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Fri Mar 10 16:57:30 2023 -0500
+
+    resolviendo conflicto en  estaciones del año con fechas de inicio
+
+commit e2386530ff75c4ee5f3dd6952974ff4ec3eb226e
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Fri Mar 10 16:06:34 2023 -0500
+
+    Agregando estaciones del año con fechas de inicio
+
+commit d487afaac6c3bfab72b17e045aed13ce28974952
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Fri Mar 10 16:06:34 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 8d3cba7a18b1a6d856c26649eebd2774ff323ff4
+Merge: d343f26 7a4e76d
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Fri Mar 10 15:44:56 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 7a4e76d36bd57487a9789eb4fd2a1e4bee65a118
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Fri Mar 10 09:12:36 2023 -0500
+
+    Agregando index.js al index.html
+
+commit d343f26b88e7321ed0fb363b65e3a146da71207d
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Fri Mar 10 09:07:33 2023 -0500
+
+    Agregando style.css al index.html
+
+commit dbe93d2ba1bac297b535bfd1f54199e75fe81eee
+Merge: 2f4da2e c740da2
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Fri Mar 10 08:41:21 2023 -0500
+
+    Merge branch 'js'
+
+commit c740da20f9a699f3ee86ee4a90f3ceec8d96f7fa
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Thu Mar 9 18:12:18 2023 -0500
+
+    Creando index.js
+
+commit 2f4da2ec68426c65adb1cd6ab4bdbf2e58a3d70a
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Thu Mar 9 16:25:25 2023 -0500
+
+    Creando archivo style.css
+
+commit 2a090ed6234b4c0a413c71b38369aad94b6085af
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Thu Mar 9 15:58:47 2023 -0500
+
+    Creando archivo index.html
+
+commit 2ea6667c38b4cc6d2088554e07a27730d5912b45
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Wed Mar 8 15:43:08 2023 -0500
+
+    ignorando archivos .exe
+
+commit 9d9305eedf2b41ddd6377e08eb91f14af7d2ae7e
+Author: johndtf <126992794+johndtf@users.noreply.github.com>
+Date:   Mon Mar 6 19:00:31 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 95b879d08c7855b054178cb1a2afff3a06d1d46b
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Mon Mar 6 18:37:51 2023 -0500
+
+    Agregando más contenido al README
+
+commit 443b9bcfa2dd593250664f74ff43161fafbe0356
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Sun Mar 5 20:46:22 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 85b91173958e169f333c43fd5d29c52c42cf488f
+Author: John Trochez <johndtf@hotmail.com>
+Date:   Sun Mar 5 20:32:04 2023 -0500
+
+    primer commit 😃
